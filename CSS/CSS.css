@@ -4,10 +4,12 @@ body{
     font-weight: 400;
     color: lightblue;
     font-size: 1rem;
+    margin-left: 35%;
+    margin-right: 35%;
 }
 h1{
-  text-align: center;
   text-decoration: underline;
+    text-align: center;
 }
 h2{
     color: royalblue;
@@ -24,5 +26,5 @@ a{
 }
 a:hover{
     color:royalblue;
-    text-shadow: 0x 0px 10px royalblue;
+    text-shadow: 0 0 10px royalblue;
 }
