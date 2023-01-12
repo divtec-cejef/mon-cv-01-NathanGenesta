@@ -4,13 +4,14 @@ body{
     font-weight: 400;
     color: lightblue;
     font-size: 1rem;
-    margin-left: 35%;
-    margin-right: 35%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 img{
     max-width: 100%;
     height: auto;
+    border: 4px solid #3a5bad;
 }
 
 h1{
@@ -37,9 +38,9 @@ a{
 
 a:hover{
     color:royalblue;
-}
-
-a:hover{
     text-shadow: 0 0 10px royalblue;
+}
+footer{
+    text-align: center;
 }
 
