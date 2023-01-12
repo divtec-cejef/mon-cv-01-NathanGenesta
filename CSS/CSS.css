@@ -7,24 +7,39 @@ body{
     margin-left: 35%;
     margin-right: 35%;
 }
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
 h1{
   text-decoration: underline;
     text-align: center;
 }
+
 h2{
     color: royalblue;
 }
+
 header{
     display: flex;
 }
+
 p.Description{
     text-align: center;
     font-size: 0.9rem;
 }
+
 a{
     color: cadetblue;
 }
+
 a:hover{
     color:royalblue;
+}
+
+a:hover{
     text-shadow: 0 0 10px royalblue;
 }
+
